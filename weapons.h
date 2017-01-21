@@ -1,0 +1,26 @@
+#include<simplecpp>
+int exacthit(coordinate ,tank &);
+void firea(tank &,tank &);
+void singleshot(tank&,tank&);
+void jackhammer(tank&,tank&);
+void tripleshot(tank&,tank&);
+void acidrain(tank&,tank&);
+void crazyivan(tank&,tank&);
+void scattershot(tank&,tank&);
+void sniper(tank&,tank&);
+void canonball(tank&,tank&);
+void pineapple(tank&,tank&);
+void lightningstrike(tank&,tank&);
+void zapper(tank&,tank&);
+void tracer(tank&,tank&);
+void skipper(tank&,tank&);
+void homingmissile(tank&,tank&);
+void boomerang(tank&, tank&);
+void spider(tank&,tank&);
+void bigshot(tank&,tank&);
+int mysterybomb(tank&,tank&);
+void Zapper(tank&,tank&);
+void TommyGun(tank&,tank&);
+void chainrxn(tank&,tank&);
+void bazooka(tank&,tank&);
+void phaser(tank&,tank&);
